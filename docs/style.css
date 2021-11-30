@@ -19,7 +19,7 @@ main {
   left: 50%;
   position: absolute;
   top: 45%;
-  transform: translate(-50%, -50%);
+  transform: translate(-20%, -50%);
   width: 100%;
 }
 
@@ -28,20 +28,20 @@ h1 {
   display: block;
   margin: 0 auto;
   text-align: left;
-  width: 1000px;
+  width: 400px;
 }
 
 hr {
   border: 0;
   border-top: 1px solid #658389;
   opacity: .4;
-  width: 1000px;
+  width: 400px;
 }
 
 ul {
   display: block;
   margin: 0 auto;
-  width: 1000px;
+  width: 400px;
 }
 
 li {
