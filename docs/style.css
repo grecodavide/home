@@ -1,6 +1,5 @@
 /* Startpage  Css
-   By Dylan Araps 
-*/
+   By Dylan Araps */
 html,
 body,
 ul {
@@ -20,7 +19,7 @@ main {
   left: 50%;
   position: absolute;
   top: 45%;
-  transform: translate(-60%, -50%);
+  transform: translate(-50%, -50%);
   width: 100%;
 }
 
